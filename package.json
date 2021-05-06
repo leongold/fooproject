@@ -51,7 +51,7 @@
     "react": "^16.2.0",
     "react-csv": "^1.0.14",
     "react-dom": "^16.2.1",
-    "react-draft-wysiwyg": "^1.12.13",
+    "react-draft-wysiwyg": "^1.14.6",
     "react-i18next": "^7.6.1",
     "react-maskedinput": "^4.0.1",
     "react-redux": "^5.0.6",
